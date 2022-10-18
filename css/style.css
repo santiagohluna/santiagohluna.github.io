@@ -51,7 +51,7 @@ header {
   align-items: center;
   padding: 1rem;
   max-width: 100vw;
-  width: 100vw;
+  /* width: 100vw; */
   background-color: rgb(236, 200, 170);
 }
 
