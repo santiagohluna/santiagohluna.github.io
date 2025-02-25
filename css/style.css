@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+  }
+
+body table {
+    width: 100%;
+}
+
+#foto_perfil {
+    width: 50%;
+    height: auto;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto-perfil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:25%
+}
+
+.banner{
+    justify-content: center;
+    width: 75%;
+}
+
+.skills-container {
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+.skills {
+    margin: 0;
+    width: 30%;
+}
+
+.contacto{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contact-link{
+    width: 25%;
+}
