@@ -1,0 +1,137 @@
+{
+  "perfil_personal": {
+    "nombre": "Santiago Luna",
+    "titulo_profesional": "Físico - Científico de Datos",
+    "resumen": "Físico con doctorado y experiencia en docencia e investigación, especializado en análisis y modelado de datos. Interesado en aplicar técnicas de machine learning, estadística y simulación a problemas complejos en ciencia e industria.",
+    "ubicacion": "Buenos Aires, Argentina",
+    "email": "santiagohluna@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/shluna",
+    "github": "https://github.com/santiagohluna",
+    "sitio_web": "https://santiagohluna.github.io",
+    "portfolio": "https://github.com/santiagohluna/portfolio",
+    "foto": "assets/profile-pic.png"
+  },
+
+  "educacion": [
+    {
+      "titulo": "Doctor en Física",
+      "institucion": "Universidad Nacional de Rosario",
+      "ubicacion": "Rosario, Argentina",
+      "fecha_inicio": "2015",
+      "fecha_fin": "2020",
+      "descripcion": "Investigación en modelado y simulación de sistemas físicos complejos, con énfasis en análisis computacional y procesamiento de datos observacionales."
+    },
+    {
+      "titulo": "Licenciado en Física",
+      "institucion": "Universidad Nacional de Rosario",
+      "ubicacion": "Rosario, Argentina",
+      "fecha_inicio": "2008",
+      "fecha_fin": "2015",
+      "descripcion": "Formación en física teórica, experimental y computacional."
+    }
+  ],
+
+  "experiencia_profesional": [
+    {
+      "cargo": "Docente e Investigador",
+      "organizacion": "Universidad Nacional de La Matanza",
+      "ubicacion": "Buenos Aires, Argentina",
+      "fecha_inicio": "2018",
+      "fecha_fin": "Presente",
+      "responsabilidades": [
+        "Dictado de clases y desarrollo de material didáctico en física y matemáticas.",
+        "Investigación aplicada en simulación y análisis de datos físicos.",
+        "Desarrollo de herramientas computacionales para el análisis y visualización de resultados."
+      ]
+    }
+  ],
+
+  "proyectos_personales": [
+    {
+      "nombre": "Predicción de la aceleración de la gravedad con Machine Learning",
+      "rol": "Desarrollador e investigador",
+      "descripcion": "Proyecto educativo-experimental que utiliza modelos de regresión para estimar la aceleración de la gravedad a partir de datos obtenidos de un péndulo simple.",
+      "tecnologias": ["Python", "scikit-learn", "pandas", "matplotlib"],
+      "repositorio": "https://github.com/santiagohluna/pendulo-ml",
+      "año": 2025
+    },
+    {
+      "nombre": "Sistema de gestión de activos y mantenimiento",
+      "rol": "Desarrollador full stack",
+      "descripcion": "Aplicación web basada en Flask y SQLite para gestionar activos, sectores y pedidos de mantenimiento. Incluye operaciones CRUD completas.",
+      "tecnologias": ["Python", "Flask", "SQLite", "HTML", "CSS", "JavaScript"],
+      "repositorio": "https://github.com/santiagohluna/gestion-mantenimiento",
+      "año": 2025
+    },
+    {
+      "nombre": "Dashboard de ventas interactivo",
+      "rol": "Analista de datos",
+      "descripcion": "Desarrollo de un panel interactivo en Power BI para análisis de ventas por categoría, región, mes y medio de pago.",
+      "tecnologias": ["Power BI", "Python", "pandas"],
+      "repositorio": "https://github.com/santiagohluna/ventas-bi",
+      "año": 2025
+    }
+  ],
+
+  "publicaciones_destacadas": [
+    {
+      "titulo": "Modelado de sistemas dinámicos con métodos de aprendizaje automático",
+      "revista_o_evento": "Congreso Argentino de Física Computacional",
+      "año": 2021,
+      "enlace": "https://example.com/publicacion1"
+    }
+  ],
+
+  "habilidades_tecnicas": {
+    "lenguajes": ["Python", "Fortran", "Java", "SQL"],
+    "frameworks": ["Flask", "Django"],
+    "herramientas": ["Power BI", "Git", "GitHub", "Visual Studio", "JupyterLab"],
+    "bases_de_datos": ["SQLite", "MySQL", "SQL Server", "Dataverse"],
+    "otros": ["Control de versiones", "Desarrollo web", "Análisis estadístico", "Machine Learning"]
+  },
+
+  "habilidades_blandas": [
+    "Comunicación efectiva",
+    "Trabajo en equipo",
+    "Pensamiento analítico",
+    "Docencia y mentoría",
+    "Resolución de problemas"
+  ],
+
+  "certificaciones_y_cursos": [
+    {
+      "nombre": "Diplomatura en Administración Rural",
+      "institucion": "UTN FRRq",
+      "año": 2025,
+      "descripcion": "Formación en gestión y administración de empresas rurales, abarcando aspectos económicos, financieros y operativos.",
+      "url_certificado": "https://example.com/certificado-administracion-rural"
+    },
+    {
+      "nombre": "Curso de Business Intelligence con Power BI",
+      "institucion": "Plataforma educativa online",
+      "año": 2025,
+      "descripcion": "Capacitación en el uso de Power BI para la creación de dashboards interactivos y análisis de datos empresariales.",
+      "url_certificado": "https://example.com/certificado-power-bi"
+    },
+    {
+      "nombre": "Curso introductorio de Machine Learning",
+      "institucion": "Coursera / Universidad de Stanford",
+      "año": 2024,
+      "descripcion": "Fundamentos de machine learning, incluyendo algoritmos de regresión, clasificación y clustering.",
+      "url_certificado": "https://www.coursera.org/account/accomplishments/certificate/EXAMPLE"
+    }
+  ],
+
+  "idiomas": [
+    { "idioma": "Español", "nivel": "Nativo" },
+    { "idioma": "Inglés", "nivel": "Avanzado" }
+  ],
+
+  "intereses": [
+    "Ciencia de datos",
+    "Física computacional",
+    "Machine Learning",
+    "Business Intelligence",
+    "Optimización y simulación numérica"
+  ]
+}

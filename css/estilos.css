@@ -1,0 +1,69 @@
+/* Estilos generales */
+body {
+    background-color: #f8f9fa;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+}
+
+h2.section-title {
+    border-bottom: 2px solid #0d6efd;
+    padding-bottom: 4px;
+    margin-bottom: 16px;
+}
+
+.section {
+    margin-bottom: 32px;
+}
+
+/* Header / Perfil */
+#header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+#header img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #0d6efd;
+}
+
+#header .info {
+    flex: 1;
+}
+
+.contact-icons a {
+    margin-right: 10px;
+    color: #0d6efd;
+    text-decoration: none;
+}
+
+.contact-icons a:hover {
+    color: #0056b3;
+}
+
+/* Tarjetas de proyectos y publicaciones */
+.card {
+    margin-bottom: 16px;
+}
+
+/* Habilidades técnicas */
+.skill-badge {
+    margin: 2px 2px;
+}
+
+/* Responsividad */
+@media (max-width: 576px) {
+    #header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    #header .info {
+        flex: unset;
+    }
+}
