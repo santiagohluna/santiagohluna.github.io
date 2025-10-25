@@ -10,7 +10,9 @@ export function renderEducacion(educacion) {
             <h5>${item.titulo}</h5>
             <h6 class="text-muted">${item.institucion} — ${item.ubicacion}</h6>
             <p class="mb-1"><small>${item.fecha_inicio} - ${item.fecha_fin}</small></p>
-            <p>${item.descripcion}</p>
+            <ul>
+                ${item.descripcion.map(r => `<li>${r}</li>`).join('')}
+            </ul>
         `;
         section.appendChild(card);
     });
