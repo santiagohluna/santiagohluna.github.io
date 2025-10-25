@@ -2,7 +2,7 @@
   "perfil_personal": {
     "nombre": "Santiago Luna",
     "titulo_profesional": "Físico - Científico de Datos",
-    "resumen": "Físico con doctorado y experiencia en docencia e investigación, especializado en análisis y modelado de datos. Interesado en aplicar técnicas de machine learning, estadística y simulación a problemas complejos en ciencia e industria.",
+    "resumen": "Doctorado en Física con más de nueve años de experiencia en investigación científica, modelado matemático y simulaciones numéricas de sistemas físicos. Experto en programación en \textsc{fortran} y Python para la implementación de modelos físicos y análisis de datos. Capacidad para liderar proyectos, desarrollar metodologías de análisis y coordinar equipos multidisciplinarios.",
     "ubicacion": "Buenos Aires, Argentina",
     "email": "santiagohluna@gmail.com",
     "linkedin": "https://www.linkedin.com/in/shluna",
@@ -14,34 +14,58 @@
 
   "educacion": [
     {
-      "titulo": "Doctor en Física",
+      "titulo": "Doctorado en Física",
       "institucion": "Universidad Nacional de Rosario",
       "ubicacion": "Rosario, Argentina",
-      "fecha_inicio": "2015",
-      "fecha_fin": "2020",
-      "descripcion": "Investigación en modelado y simulación de sistemas físicos complejos, con énfasis en análisis computacional y procesamiento de datos observacionales."
+      "fecha_inicio": "Marzo de 2015",
+      "fecha_fin": "Mayo de 2020",
+      "descripcion": ["Investigación en modelado y simulación de sistemas físicos complejos, con énfasis en análisis computacional y procesamiento de datos observacionales.", "Realizada con una beca doctoral de CONICET en el Instituto de Astronomía y Física del Espacio (CONICET-UBA)","Tesis: 'Estudio de la interacción de mareas en sistemas planetarios'.", "Logros: Implementé en un software de producción propia un modelo matemático que describe la evolución dinámica de un sistema binario teniendo en cuenta la interacción de mareas. Publiqué los resultados en una revista científica especializada."]
     },
     {
       "titulo": "Licenciado en Física",
       "institucion": "Universidad Nacional de Rosario",
       "ubicacion": "Rosario, Argentina",
-      "fecha_inicio": "2008",
-      "fecha_fin": "2015",
-      "descripcion": "Formación en física teórica, experimental y computacional."
+      "fecha_inicio": "Abril 2008",
+      "fecha_fin": "Marzo de 2015",
+      "descripcion": ["Formación en física teórica, experimental y computacional.", "Tesina: 'Estudio de la interacción de mareas en sistemas exoplanetarios observados'."]
     }
   ],
 
   "experiencia_profesional": [
     {
+      "cargo": "Analista administrativo",
+      "organizacion": "Adecoagro",
+      "ubicacion": "Santa Fe, Argentina",
+      "fecha_inicio": "Abril de 2021",
+      "fecha_fin": "actualidad",
+      "responsabilidades": [
+          "Gestión administrativa del área de mantenimiento.",
+          "Desarrollo de soluciones de software para carga y transformación de datos.",
+          "Análisis de datos empresariales (Business Intelligence)."
+      ]
+    },
+    {
       "cargo": "Docente e Investigador",
-      "organizacion": "Universidad Nacional de La Matanza",
+      "organizacion": "Universidad Nacional de Hurlingham",
       "ubicacion": "Buenos Aires, Argentina",
-      "fecha_inicio": "2018",
-      "fecha_fin": "Presente",
+      "fecha_inicio": "Marzo de 2021",
+      "fecha_fin": "Abril de 2025",
       "responsabilidades": [
         "Dictado de clases y desarrollo de material didáctico en física y matemáticas.",
-        "Investigación aplicada en simulación y análisis de datos físicos.",
-        "Desarrollo de herramientas computacionales para el análisis y visualización de resultados."
+        "Modelado matemático y desarrollo de software específico para simulaciones numéricas.",
+        "Análisis y modelado de datos de observaciones en rayos X."
+      ]
+    },
+    {
+      "cargo": "Becario Postdoctoral",
+      "organizacion": "Instituto de Estudios Andinos 'Don Pablo Groeber' (UBA-CONICET)",
+      "ubicacion": "Buenos Aires, Argentina",
+      "fecha_inicio": "Marzo de 2021",
+      "fecha_fin": "Abril de 2025",
+      "responsabilidades": [
+        "Realizada con una beca posdoctoral de CONICET.",
+        "Investigación en Astrofísica y Geofísica.",
+        "Logros: Desarrollo e implementación de un software para el modelado de la evolución térmica de la Tierra teniendo en cuenta la interacción de mareas con la Luna."
       ]
     }
   ],
@@ -83,10 +107,10 @@
   ],
 
   "habilidades_tecnicas": {
-    "lenguajes": ["Python", "Fortran", "Java", "SQL"],
-    "frameworks": ["Flask", "Django"],
-    "herramientas": ["Power BI", "Git", "GitHub", "Visual Studio", "JupyterLab"],
-    "bases_de_datos": ["SQLite", "MySQL", "SQL Server", "Dataverse"],
+    "lenguajes": ["Python", "Fortran", "Java", "SQL", "HTML", "CSS", "JavaScript"],
+    "frameworks": ["Flask", "Vue.js"],
+    "herramientas": ["Power BI", "Git", "GitHub", "Visual Studio Code", "JupyterLab", "Google Colab"],
+    "bases_de_datos": ["SQLite", "MySQL", "SQL Server"],
     "otros": ["Control de versiones", "Desarrollo web", "Análisis estadístico", "Machine Learning"]
   },
 
@@ -132,6 +156,8 @@
     "Física computacional",
     "Machine Learning",
     "Business Intelligence",
-    "Optimización y simulación numérica"
+    "Optimización y simulación numérica",
+    "Desarrollo de software",
+    "Modelado matemático"
   ]
 }
