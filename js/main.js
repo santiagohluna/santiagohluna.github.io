@@ -23,7 +23,7 @@ async function main() {
         // container.appendChild(renderPublicaciones(data.publicaciones_destacadas));
         container.appendChild(renderHabilidades(data.habilidades_tecnicas));
         container.appendChild(renderHabilidadesBlandas(data.habilidades_blandas));
-        // container.appendChild(renderCertificaciones(data.certificaciones_y_cursos));
+        container.appendChild(renderCertificaciones(data.certificaciones_y_cursos));
         container.appendChild(renderIdiomas(data.idiomas));
         container.appendChild(renderIntereses(data.intereses));
     } catch (error) {

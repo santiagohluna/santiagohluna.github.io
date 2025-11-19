@@ -6,7 +6,8 @@ export function renderHabilidades(habilidades) {
     Object.entries(habilidades).forEach(([categoria, lista]) => {
         const div = document.createElement('div');
         div.classList.add('mb-2');
-        div.innerHTML = `<strong>${categoria.charAt(0).toUpperCase() + categoria.slice(1)}:</strong> ${lista.join(', ')}`;
+        const displayCat = categoria.replace(/_/g, ' ');
+        div.innerHTML = `<strong>${displayCat.charAt(0).toUpperCase() + displayCat.slice(1)}:</strong> ${lista.join(', ')}`;
         section.appendChild(div);
     });
 

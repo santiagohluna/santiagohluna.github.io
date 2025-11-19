@@ -2,7 +2,7 @@
   "perfil_personal": {
     "nombre": "Santiago Luna",
     "titulo_profesional": "Físico - Científico de Datos",
-    "resumen": "Doctorado en Física con más de nueve años de experiencia en investigación científica, modelado matemático y simulaciones numéricas de sistemas físicos. Experto en programación en \textsc{fortran} y Python para la implementación de modelos físicos y análisis de datos. Capacidad para liderar proyectos, desarrollar metodologías de análisis y coordinar equipos multidisciplinarios.",
+    "resumen": "Doctorado en Física con más de nueve años de experiencia en investigación científica, modelado matemático y simulaciones numéricas de sistemas físicos. Experto en programación en Fortran y Python para la implementación de modelos físicos y análisis de datos. Capacidad para liderar proyectos, desarrollar metodologías de análisis y coordinar equipos multidisciplinarios.",
     "ubicacion": "Buenos Aires, Argentina",
     "email": "santiagohluna@gmail.com",
     "linkedin": "https://www.linkedin.com/in/shluna",
@@ -124,25 +124,39 @@
 
   "certificaciones_y_cursos": [
     {
-      "nombre": "Diplomatura en Administración Rural",
-      "institucion": "UTN FRRq",
+      "nombre": "Análisis de Datos con Python",
+      "institucion": "Talento Tech - Ministerio de Educación del GCBA",
       "año": 2025,
-      "descripcion": "Formación en gestión y administración de empresas rurales, abarcando aspectos económicos, financieros y operativos.",
-      "url_certificado": "https://example.com/certificado-administracion-rural"
+      "descripcion": "Capacitación en técnicas de análisis de datos utilizando Python, incluyendo manipulación de datos con pandas, visualización con matplotlib y seaborn, creación de dashboards interactivos con Plotly y fundamentos de estadística aplicada.",
+      "url_certificado": "https://drive.google.com/file/d/1JEcJq0qkA5K8nNxN3Rizfa2jelGnw6fI/view?usp=sharing"
     },
     {
-      "nombre": "Curso de Business Intelligence con Power BI",
-      "institucion": "Plataforma educativa online",
+      "nombre": "BI Consulting",
+      "institucion": "Talento Tech - Ministerio de Educación del GCBA",
       "año": 2025,
-      "descripcion": "Capacitación en el uso de Power BI para la creación de dashboards interactivos y análisis de datos empresariales.",
-      "url_certificado": "https://example.com/certificado-power-bi"
+      "descripcion": "Capacitación en el uso de las herramientas de Business Intelligence con G-Suite y Looker Studio para la creación de dashboards interactivos y análisis de datos empresariales.",
+      "url_certificado": "https://drive.google.com/file/d/1JEcJq0qkA5K8nNxN3Rizfa2jelGnw6fI/view?usp=sharing"
     },
     {
-      "nombre": "Curso introductorio de Machine Learning",
-      "institucion": "Coursera / Universidad de Stanford",
-      "año": 2024,
-      "descripcion": "Fundamentos de machine learning, incluyendo algoritmos de regresión, clasificación y clustering.",
-      "url_certificado": "https://www.coursera.org/account/accomplishments/certificate/EXAMPLE"
+      "nombre": "Introducción a JAVA",
+      "institucion": "CTFTP - Universidad Nacional de Hurlingham",
+      "año": 2023,
+      "descripcion": "Introducción a la programación en Java, cubriendo conceptos básicos como variables, tipos de datos, estructuras de control, funciones y programación orientada a objetos. Creaci{ón de aplicaciones simples en Java.",
+      "url_certificado": "https://drive.google.com/file/d/1J2-yEQoIKv9e6Bwn3hOHAnCq-D-nuAEZ/view?usp=sharing"
+    },
+    {
+      "nombre": "Tester QA",
+      "institucion": "CTFTP - Universidad Nacional de Hurlingham",
+      "año": 2023,
+      "descripcion": "Formación en aseguramiento de la calidad de software (QA), incluyendo metodologías de testing, tipos de pruebas, herramientas y mejores prácticas para garantizar la calidad en el desarrollo de software tanto manual como automatizado.",
+      "url_certificado": "https://drive.google.com/file/d/1QCPg0ioA1OnA0LJFbaGiN75r1TOdkevp/view?usp=sharing"
+    },
+    {
+      "nombre": "Desarrollo web Full Stack con Python",
+      "institucion": "Codo a Codo 4.0 - Ministerio de Educación del GCBA",
+      "año": 2022,
+      "descripcion": "Curso intensivo de desarrollo web Full Stack utilizando Python y Flask para el backend, y HTML, CSS y JavaScript para el frontend. Incluye diseño de bases de datos, elementos de Vue.js y Django y despliegue de aplicaciones web.",
+      "url_certificado": "https://drive.google.com/file/d/1hdBvrc44ytMJJDP9YKpHslT0uWPxnE1V/view?usp=sharing"
     }
   ],
 
